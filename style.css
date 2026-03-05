@@ -1,0 +1,57 @@
+body{
+    background-color:#ffdfe9;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:center;
+    margin:0;
+}
+
+header{
+    background-color:#ffb6c1;
+    padding:20px;
+}
+
+nav a{
+    margin:15px;
+    text-decoration:none;
+    color:black;
+    font-weight:bold;
+}
+
+.container{
+    padding:20px;
+}
+
+img{
+    width:200px;
+    margin:10px;
+    border-radius:10px;
+}
+
+.produto{
+    background:white;
+    margin:20px auto;
+    padding:15px;
+    width:300px;
+    border-radius:10px;
+}
+
+form{
+    background:white;
+    width:300px;
+    margin:auto;
+    padding:20px;
+    border-radius:10px;
+}
+
+input, textarea{
+    width:90%;
+    padding:8px;
+    margin:8px;
+}
+
+button{
+    background:#ff8fab;
+    border:none;
+    padding:10px;
+    cursor:pointer;
+}
